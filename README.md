@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThalentaN
 - 👀 I’m interested in: App development, web development, machine learning, and open-source projects 
-- 🌱 I’m currently learning: Python, app development, and web development through Udemy, ALX, and ITVarsity 
+- 🌱 I’m currently learning: Python, app development, and web development through Udemy, ALX, and ITVarsity/FNB App Academy 
 - 💞️ I’m looking to collaborate on: Projects related to machine learning, web development, or open-source initiatives 
 - 📫 How to reach me .. nkalathalenta@gmail.com 
 - 😄 Pronouns: She/Her
